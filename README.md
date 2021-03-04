@@ -1,4 +1,4 @@
-# pda_scanner
+# infrared_scanner
 
 [![License](https://img.shields.io/badge/License-MIT-orange)](https://opensource.org/licenses/MIT)
 [![build](https://img.shields.io/badge/build-0.1.0-green)](#)
@@ -11,7 +11,7 @@
 将依赖添加到 `pubspec.yaml` 中
 ```yaml
 dependencies:
-  pda_scanner: ^0.1.0
+  infrared_scanner: ^0.1.0
 ```
 
 # Usage
