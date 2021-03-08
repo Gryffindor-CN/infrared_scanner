@@ -11,7 +11,7 @@
 将依赖添加到 `pubspec.yaml` 中
 ```yaml
 dependencies:
-  infrared_scanner: ^0.1.0
+  infrared_scanner: ^0.1.1
 ```
 
 # Usage
